@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋  
+I'm Akash Polkar, a Master's student in Mechatronics at RWU Hochschule Ravensburg-Weingarten, Germany 🇩🇪
 
-<!--
-**akashpolkar29/akashpolkar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a quick snapshot about me:
 
-Here are some ideas to get you started:
+🤖 Tech Explorer: Passionate about bridging mechanical systems with intelligent software through AI, Computer Vision, and Mechatronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📷 Computer Vision Enthusiast: Actively working on object detection, depth estimation, and image analysis using OpenCV and deep learning.
+
+📊 Machine Learning Learner: Continuously building strong foundations in ML algorithms and applying them to real-world problems.
+
+💡 Project Driven: I enjoy turning ideas into working solutions — from electric bike innovations to ArUco marker detection systems.
+
+🚀 Eager to Collaborate: Open to connecting on innovative projects, research discussions, or just exchanging cool ideas around AI and embedded systems.
+
+🌐 Let's connect!  
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akashpolkar) to collaborate or share ideas.
+
+---
+
+🔧 Currently Learning:  
+`Computer Vision` | `Machine Learning` | `DevOps (Soon)` | `German A1`
+
+🛠️ Tools & Tech I Use:  
+`Python` | `MATLAB` | `OpenCV` | `YOLO` | `TensorFlow` | `Linux` | `SolidWorks`
+
+📌 Fun Fact: I made *chole* once that tasted just like Raju uncle's from Pune 😄
