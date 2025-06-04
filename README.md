@@ -19,7 +19,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akashpolk
 ---
 
 🔧 Currently Learning:  
-`Computer Vision` | `Machine Learning` | `DevOps (Soon)` | `German A1`
+`Computer Vision` | `Machine Learning` | `DevOps (Soon)` | `German b1`
 
 🛠️ Tools & Tech I Use:  
 `Python` | `MATLAB` | `OpenCV` | `YOLO` | `TensorFlow` | `Linux` | `SolidWorks`
